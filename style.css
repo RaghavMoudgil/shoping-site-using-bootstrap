@@ -1,0 +1,21 @@
+.card{
+    width: 17rem;
+  
+}
+.mrp{
+    color: red;
+}
+.sp{
+    color: green;
+}
+.bcart{
+    display: inline;
+}
+.bcart .btn{
+    background-color: yellow;
+    color: black;
+}
+.btn {
+    color: black;
+
+}
